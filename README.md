@@ -35,7 +35,7 @@ outside my comfort zone — global fuel economics rather than sales or churn dat
 ## 📊 Dashboard Preview
 
 ### Overview Page
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](assets/Global%20fuel%20price%20analysis%20dashboard.png)
 
 ---
 
